@@ -42,7 +42,7 @@ git clone https://github.com/nasa/openmct.git
 ```
 
 GitHub Pages
-- Visita 
+- Visita https://ferpaye01.github.io/notas_git_github_curso/
 
 ## 💻Tecnologías Utilizadas
 - HTML5: Estructura de la página y organización del contenido.
