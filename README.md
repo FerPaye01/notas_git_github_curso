@@ -1,10 +1,15 @@
 # Apuntes del Curso Git y GitHub
 
+## Descripción del Proyecto
+Implementación de una página que muestra los apuntes hechos en el curso "Git y GitHub: repositorio, commit y versiones"
+
+Contiene resúmenes de cada unidad (creación de cuenta en GitHub, commits, ramas, merges, buenas prácticas, etc.).
+
+
 ## Insignias
 
 
 ## Estado del Proyecto
-Implementación de una página que muestra los apuntes hechos en el curso "Git y GitHub: repositorio, commit y versiones"
 
 ## Demostración de Funciones y Aplicaciones
 
