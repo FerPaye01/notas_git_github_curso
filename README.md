@@ -38,7 +38,7 @@ Actualmente el proyecto se encuentra en desarrollo. Se espera mejorar el proyect
 ## 📁Acceso al Proyecto
 Clona el código fuente:
 ```sh
-git clone https://github.com/nasa/openmct.git
+git clone https://github.com/FerPaye01/notas_git_github_curso.git
 ```
 
 GitHub Pages
